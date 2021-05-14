@@ -50,7 +50,7 @@ public class ContactForm extends FormLayout {
          */
         save.setStyleName(ValoTheme.BUTTON_PRIMARY);
         save.setClickShortcut(ShortcutAction.KeyCode.ENTER);
-        setVisible(false);
+        setVisible(false)
     }
 
     private void buildLayout() {
